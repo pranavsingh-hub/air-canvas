@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+numpy>=1.26.0
+onnxruntime>=1.16.0
+pynput>=1.7.6
